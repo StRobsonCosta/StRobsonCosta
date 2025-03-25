@@ -5,13 +5,13 @@
 - 🌍 Passionate about **Technology, Traveling, Automobilism, and Rock Music**  
 - 📚 Always learning and improving skills in **Java, Spring, Python, and Cloud Technologies**  
 - 📈 Working on **projects that merge different areas of knowledge to create user-friendly tools**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/strobsoncosta/)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/st-robson-costa/)**  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/strobsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/st-robson-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ---
