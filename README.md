@@ -5,7 +5,7 @@
 - 🌍 Passionate about **Technology, Traveling, Automobilism, and Rock Music**  
 - 📚 Always learning and improving skills in **Java, Spring, Python, and Cloud Technologies**  
 - 📈 Working on **projects that merge different areas of knowledge to create user-friendly tools**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/st-robson-costa/)**  
+- 📫 How to reach me: **[e-mail](st.robson.costa@gmail.com)**  
 
 ---
 
