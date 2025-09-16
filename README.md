@@ -7,16 +7,16 @@
 - 📈 Working on **projects that merge different areas of knowledge to create user-friendly tools**  
 - 📫 How to reach me: **[e-mail](st.robson.costa@gmail.com)**  
 
----
+----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/st-robson-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
----
+----
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StRobsonCosta" alt="StRobsonCosta" /></a> </p>
----
+----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
