@@ -7,7 +7,7 @@
 - 📈 Working on **projects that merge different areas of knowledge to create user-friendly tools**  
 - 📫 How to reach me: **[e-mail](st.robson.costa@gmail.com)**  
 
----
+----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
